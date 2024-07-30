@@ -1,4 +1,4 @@
-## Hi there 👋
+<p xmlns:cc="http://creativecommons.org/ns#" >Este trabalho está licenciado sob <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goal.com%2Fbr%2Fnot%25C3%25ADcias%2Fneymar-total-gols-psg-barcelona-santos-selecao-copa-champions%2Fhojx7pn03sci1n59thtalaqie&psig=AOvVaw3gy4Ne7WDiRjCQgYjnveLf&ust=1722423100012000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDo2vrLzocDFQAAAAAdAAAAABAK)
 <!--
 **Sala971/Sala971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
